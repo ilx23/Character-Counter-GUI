@@ -23,7 +23,7 @@ Welcome to the Character Counter GUI project! This project provides a simple Gra
 
 
 3. **Run the Application:** Navigate to the project directory and run the following command:
-> ```python character_counter.py```
+> ```python app.py```
 
 
 4. **Input Text:** Enter your text in the input field provided.
